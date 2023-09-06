@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Node/app/src/main/res/layout/activity_alter.xml" value="0.22826086956521738" />
+        <entry key="..\:/Node/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/Node/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Node/app/src/main/res/layout/activity_notepad.xml" value="0.22826086956521738" />
+        <entry key="..\:/Node/app/src/main/res/layout/activity_record.xml" value="0.22826086956521738" />
+        <entry key="..\:/Node/app/src/main/res/layout/activity_register.xml" value="0.22826086956521738" />
+        <entry key="..\:/Node/app/src/main/res/layout/activity_update_person.xml" value="0.22826086956521738" />
+        <entry key="..\:/Node/app/src/main/res/layout/bottom_nav_menu.xml" value="0.22826086956521738" />
+        <entry key="..\:/Node/app/src/main/res/layout/footer_layout.xml" value="0.22826086956521738" />
+        <entry key="..\:/Node/app/src/main/res/layout/fragment_home.xml" value="0.22826086956521738" />
+        <entry key="..\:/Node/app/src/main/res/layout/fragment_mine.xml" value="0.22826086956521738" />
+        <entry key="..\:/Node/app/src/main/res/layout/fragment_rich.xml" value="0.22826086956521738" />
+        <entry key="..\:/Node/app/src/main/res/layout/fragment_service.xml" value="0.22826086956521738" />
+        <entry key="..\:/Node/app/src/main/res/layout/notepad_item_layout.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="jbr-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
